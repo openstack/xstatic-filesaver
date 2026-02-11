@@ -1,5 +1,5 @@
 XStatic-FileSaver
---------------
+-----------------
 
 FileSaver JavaScript library packaged for setuptools (easy_install) / pip.
 
